@@ -13,5 +13,3 @@ for ($i = 2; $i < $num; $i++) {
 if($res == NULL) {
     echo $num . "は素数です。";
 }
-
-echo $num . "は素数です。";
